@@ -1,6 +1,6 @@
 # task_tree_local
 
-<img src="logo_task_tree.svg" alt="Logo of the project" width="200"/>
+<img src="docs/source/_static/logo.svg" alt="Logo of the project" width="200"/>
 
 This is part of the big project `task_tree` for local use.
 

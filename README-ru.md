@@ -1,6 +1,6 @@
 # task_tree_local
 
-<img src="logo_task_tree.svg" alt="Логотип проекта" width="200"/>
+<img src="docs/source/static/logo.svg" alt="Логотип проекта" width="200"/>
 
 Это локальная часть большого проекта `task_tree`.
 

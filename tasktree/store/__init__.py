@@ -1,5 +1,5 @@
 """
-Packege for saving and loading data.
+Package for saving and loading data.
 
 Different places for store supported.
 """
